@@ -1,0 +1,706 @@
+{
+  "categories": [
+    {
+      "id": "vpn-security",
+      "title": "VPN و الأمان",
+      "apps": [
+        {
+          "id": "1.1.1.1",
+          "name": "1.1.1.1 + WARP",
+          "developer": "Cloudflare",
+          "version": "6.35",
+          "size": "24 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.cloudflare.onedotonedotonedotone?version=latest",
+          "rating": 4.7,
+          "downloads": "100M+",
+          "ageRating": "3+",
+          "description": "تطبيق 1.1.1.1 من Cloudflare يوفر لك اتصالاً آمناً وسريعاً عبر WARP. يحمي خصوصيتك ويحجب الإعلانات ويحسن سرعة الإنترنت.",
+          "shortDesc": "VPN مجاني وسريع لحماية خصوصيتك",
+          "features": [
+            "اتصال VPN مجاني وسريع",
+            "حماية من البرامج الضارة",
+            "تسريع تصفح الإنترنت",
+            "حجب الإعلانات والتتبع",
+            "تشفير كامل لبياناتك"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "20 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/1111-1.jpg",
+            "images/apps/1111-2.jpg",
+            "images/apps/1111-3.jpg"
+          ],
+          "changelog": [
+            "تحسين أداء WARP",
+            "إصلاحات أخطاء الاتصال",
+            "واجهة مستخدم محسّنة"
+          ],
+          "image": "images/apps/1111.jpg"
+        },
+        {
+          "id": "protonvpn",
+          "name": "Proton VPN",
+          "developer": "Proton AG",
+          "version": "4.6.12",
+          "size": "18 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/ch.protonvpn.android?version=latest",
+          "rating": 4.5,
+          "downloads": "10M+",
+          "ageRating": "3+",
+          "description": "Proton VPN هو خدمة VPN آمنة ومجانية من مطوري ProtonMail. يقدم تشفير AES-256، سياسة عدم تسجيل النشاطات، وسيرفرات في أكثر من 60 دولة.",
+          "shortDesc": "VPN آمن ومجاني من مطوري ProtonMail",
+          "features": [
+            "تشفير AES-256 عسكري",
+            "سياسة عدم تسجيل النشاطات",
+            "Kill Switch لحماية البيانات",
+            "سيرفرات في 60+ دولة",
+            "NetShield لحجب الإعلانات"
+          ],
+          "requirements": [
+            "Android 6.0 أو أعلى",
+            "15 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/protonvpn-1.jpg",
+            "images/apps/protonvpn-2.jpg",
+            "images/apps/protonvpn-3.jpg"
+          ],
+          "changelog": [
+            "إضافة سيرفرات جديدة",
+            "تحسين NetShield",
+            "إصلاحات أمنية"
+          ],
+          "image": "images/apps/protonvpn.jpg"
+        },
+        {
+          "id": "nordvpn",
+          "name": "NordVPN",
+          "developer": "Nord Security",
+          "version": "5.23",
+          "size": "35 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.nordvpn.android?version=latest",
+          "rating": 4.4,
+          "downloads": "50M+",
+          "ageRating": "3+",
+          "description": "NordVPN هو واحد من أكثر تطبيقات VPN شهرة في العالم. يوفر لك أماناً متقدماً، سرعة فائقة، ووصولاً إلى محتوى محجوب.",
+          "shortDesc": "VPN سريع وآمن مع 5000+ سيرفر",
+          "features": [
+            "أكثر من 5000 سيرفر",
+            "تقنية NordLynx للسرعة",
+            "حماية Threat Protection",
+            "Double VPN للأمان المضاعف",
+            "دعم 6 أجهزة متزامنة"
+          ],
+          "requirements": [
+            "Android 7.0 أو أعلى",
+            "40 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/nordvpn-1.jpg",
+            "images/apps/nordvpn-2.jpg",
+            "images/apps/nordvpn-3.jpg"
+          ],
+          "changelog": [
+            "تحديث Threat Protection",
+            "تحسين NordLynx",
+            "إصلاحات الأداء"
+          ],
+          "image": "images/apps/nordvpn.jpg"
+        }
+      ]
+    },
+    {
+      "id": "downloaders",
+      "title": "التنزيل والتحميل",
+      "apps": [
+        {
+          "id": "adm",
+          "name": "Advanced Download Manager",
+          "developer": "DimonVideo",
+          "version": "14.0.38",
+          "size": "8 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.dv.adm?version=latest",
+          "rating": 4.6,
+          "downloads": "50M+",
+          "ageRating": "3+",
+          "description": "Advanced Download Manager (ADM) هو أقوى مدير تنزيلات لنظام Android. يدعم التنزيل المتعدد، التنزيل بالتورنت، والتنزيل من المتصفح.",
+          "shortDesc": "أقوى مدير تنزيلات مع دعم التورنت",
+          "features": [
+            "تنزيل متوازي حتى 9 ملفات",
+            "تنزيل بالتورنت",
+            "تنزيل من المتصفح المدمج",
+            "جدولة التنزيلات",
+            "استئناف التنزيل التلقائي"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "10 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/adm-1.jpg",
+            "images/apps/adm-2.jpg",
+            "images/apps/adm-3.jpg"
+          ],
+          "changelog": [
+            "تحسين سرعة التنزيل",
+            "دعم بروتوكولات جديدة",
+            "إصلاحات أخطاء التورنت"
+          ],
+          "image": "images/apps/adm.jpg"
+        },
+        {
+          "id": "snaptube",
+          "name": "SnapTube",
+          "developer": "SnapTube",
+          "version": "7.28",
+          "size": "22 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.snaptube.premium?version=latest",
+          "rating": 4.3,
+          "downloads": "100M+",
+          "ageRating": "12+",
+          "description": "SnapTube يسمح لك بتنزيل الفيديوهات والموسيقى من YouTube، Facebook، Instagram، ومواقع أخرى. يدعم جودة 4K وتحويل إلى MP3.",
+          "shortDesc": "تنزيل الفيديوهات من YouTube ومواقع التواصل",
+          "features": [
+            "تنزيل من YouTube و50+ موقع",
+            "جودة 4K و1080p",
+            "تحويل الفيديو إلى MP3",
+            "تنزيل قائمة التشغيل كاملة",
+            "مدير تنزيلات متقدم"
+          ],
+          "requirements": [
+            "Android 4.1 أو أعلى",
+            "25 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/snaptube-1.jpg",
+            "images/apps/snaptube-2.jpg",
+            "images/apps/snaptube-3.jpg"
+          ],
+          "changelog": [
+            "دعم مواقع جديدة",
+            "تحسين تحويل MP3",
+            "واجهة مستخدم محدّثة"
+          ],
+          "image": "images/apps/snaptube.jpg"
+        },
+        {
+          "id": "idm",
+          "name": "1DM+ Browser & Video",
+          "developer": "Vicky Bonick",
+          "version": "15.9",
+          "size": "12 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/idm.internet.download.manager?version=latest",
+          "rating": 4.5,
+          "downloads": "10M+",
+          "ageRating": "3+",
+          "description": "1DM+ هو متصفح ومدير تنزيلات متقدم. يدعم التنزيل المتعدد، تشغيل الفيديوهات، وتصفح الويب مع مانع إعلانات.",
+          "shortDesc": "متصفح ومدير تنزيلات مع مانع إعلانات",
+          "features": [
+            "متصفح مدمج مع مانع إعلانات",
+            "تنزيل متعدد حتى 10 ملفات",
+            "تشغيل فيديوهات مباشرة",
+            "دعم Magnet و Torrent",
+            "وضع التصفح الخفي"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "15 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/idm-1.jpg",
+            "images/apps/idm-2.jpg",
+            "images/apps/idm-3.jpg"
+          ],
+          "changelog": [
+            "تحسين مانع الإعلانات",
+            "إصلاحات أخطاء التنزيل",
+            "تحديث المتصفح المدمج"
+          ],
+          "image": "images/apps/idm.jpg"
+        }
+      ]
+    },
+    {
+      "id": "media",
+      "title": "الميديا والمشغلات",
+      "apps": [
+        {
+          "id": "vlc",
+          "name": "VLC for Android",
+          "developer": "VideoLAN",
+          "version": "3.5.4",
+          "size": "45 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/org.videolan.vlc?version=latest",
+          "rating": 4.6,
+          "downloads": "100M+",
+          "ageRating": "3+",
+          "description": "VLC هو أفضل مشغل وسائط مفتوح المصدر. يدعم جميع صيغ الفيديو والصوت، الترجمة، البث الشبكي، وتحويل الصيغ.",
+          "shortDesc": "مشغل وسائط يدعم جميع الصيغ",
+          "features": [
+            "يدعم جميع صيغ الفيديو والصوت",
+            "تشغيل الترجمة والتيرنت",
+            "تحكم في السرعة والصوت",
+            "تحويل بين الصيغ",
+            "تشغيل البث الشبكي"
+          ],
+          "requirements": [
+            "Android 4.2 أو أعلى",
+            "50 MB مساحة فارغة",
+            "معالج ARMv7 أو أعلى"
+          ],
+          "screenshots": [
+            "images/apps/vlc-1.jpg",
+            "images/apps/vlc-2.jpg",
+            "images/apps/vlc-3.jpg"
+          ],
+          "changelog": [
+            "تحسين دعم HDR",
+            "إصلاحات أخطاء التشغيل",
+            "تحديث الترجمة التلقائية"
+          ],
+          "image": "images/apps/vlc.jpg"
+        },
+        {
+          "id": "mxplayer",
+          "name": "MX Player",
+          "developer": "MX Media",
+          "version": "1.82.0",
+          "size": "38 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.mxtech.videoplayer.ad?version=latest",
+          "rating": 4.4,
+          "downloads": "1B+",
+          "ageRating": "12+",
+          "description": "MX Player هو مشغل فيديو قوي مع دعم ترميز الأجهزة، الترجمة المتعددة، والتحكم بالإيماءات. يتضمن الآن محتوى أصلي مجاني.",
+          "shortDesc": "مشغل فيديو قوي مع تحكم بالإيماءات",
+          "features": [
+            "ترميز الأجهزة HW+",
+            "تحكم بالإيماءات",
+            "دعم الترجمة المتعددة",
+            "تشغيل خلفية",
+            "محتوى أصلي مجاني"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "40 MB مساحة فارغة",
+            "معالج متوسط الأداء"
+          ],
+          "screenshots": [
+            "images/apps/mxplayer-1.jpg",
+            "images/apps/mxplayer-2.jpg",
+            "images/apps/mxplayer-3.jpg"
+          ],
+          "changelog": [
+            "تحسين أداء التشغيل",
+            "إضافة محتوى جديد",
+            "إصلاحات الأمان"
+          ],
+          "image": "images/apps/mxplayer.jpg"
+        },
+        {
+          "id": "spotify",
+          "name": "Spotify",
+          "developer": "Spotify AB",
+          "version": "8.9.40",
+          "size": "52 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.spotify.music?version=latest",
+          "rating": 4.5,
+          "downloads": "1B+",
+          "ageRating": "12+",
+          "description": "Spotify هو أكبر منصة موسيقى في العالم. استمع إلى الملايين من الأغاني والبودكاست مجاناً أو اشترك Premium لتحميل الموسيقى.",
+          "shortDesc": "ملايين الأغاني والبودكاست",
+          "features": [
+            "ملايين الأغاني والبودكاست",
+            "قوائم تشغيل شخصية",
+            "جودة صوت عالية",
+            "تحميل للاستماع بدون إنترنت",
+            "Spotify Connect"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "60 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/spotify-1.jpg",
+            "images/apps/spotify-2.jpg",
+            "images/apps/spotify-3.jpg"
+          ],
+          "changelog": [
+            "تحسين خوارزمية الاكتشاف",
+            "إضافة ميزات AI DJ",
+            "تحسين جودة الصوت"
+          ],
+          "image": "images/apps/spotify.jpg"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "أدوات النظام",
+      "apps": [
+        {
+          "id": "sdmaid",
+          "name": "SD Maid 2",
+          "developer": "darken",
+          "version": "1.0.0-rc7",
+          "size": "16 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/eu.darken.sdmse?version=latest",
+          "rating": 4.6,
+          "downloads": "10M+",
+          "ageRating": "3+",
+          "description": "SD Maid 2 هو منظف ملفات متقدم لنظام Android. يكتشف الملفات الميتة، يحذف البيانات الزائدة، ويحرر مساحة التخزين.",
+          "shortDesc": "منظف ملفات متقدم لتحرير المساحة",
+          "features": [
+            "فحص شامل للملفات الميتة",
+            "تنظيف ذاكرة التخزين المؤقت",
+            "إدارة التطبيقات المثبتة",
+            "جدولة التنظيف التلقائي",
+            "تفاصيل استخدام المساحة"
+          ],
+          "requirements": [
+            "Android 7.0 أو أعلى",
+            "20 MB مساحة فارغة",
+            "صلاحيات ROOT اختيارية"
+          ],
+          "screenshots": [
+            "images/apps/sdmaid-1.jpg",
+            "images/apps/sdmaid-2.jpg",
+            "images/apps/sdmaid-3.jpg"
+          ],
+          "changelog": [
+            "إعادة بناء كاملة من SD Maid 1",
+            "واجهة Material Design 3",
+            "تحسين دقة الكشف"
+          ],
+          "image": "images/apps/sdmaid.jpg"
+        },
+        {
+          "id": "zarchiver",
+          "name": "ZArchiver",
+          "developer": "ZDevs",
+          "version": "1.0.8",
+          "size": "5 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/ru.zdevs.zarchiver?version=latest",
+          "rating": 4.7,
+          "downloads": "100M+",
+          "ageRating": "3+",
+          "description": "ZArchiver هو أفضل مدير أرشيف لنظام Android. يدعم فك وإنشاء ملفات ZIP، RAR، 7Z، TAR، وغيرها من الصيغ.",
+          "shortDesc": "مدير أرشيف يدعم جميع الصيغ",
+          "features": [
+            "فك وضغط ZIP، RAR، 7Z",
+            "إنشاء أرشيفات مشفرة",
+            "تقسيم الأرشيفات",
+            "معاينة الملفات داخل الأرشيف",
+            "دعم Unicode"
+          ],
+          "requirements": [
+            "Android 4.0 أو أعلى",
+            "8 MB مساحة فارغة",
+            "ذاكرة RAM 1 GB"
+          ],
+          "screenshots": [
+            "images/apps/zarchiver-1.jpg",
+            "images/apps/zarchiver-2.jpg",
+            "images/apps/zarchiver-3.jpg"
+          ],
+          "changelog": [
+            "تحسين سرعة الضغط",
+            "دعم صيغ جديدة",
+            "إصلاحات أخطاء"
+          ],
+          "image": "images/apps/zarchiver.jpg"
+        },
+        {
+          "id": "esfile",
+          "name": "ES File Explorer",
+          "developer": "ES Global",
+          "version": "4.4.2.12",
+          "size": "28 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.estrongs.android.pop?version=latest",
+          "rating": 4.2,
+          "downloads": "500M+",
+          "ageRating": "3+",
+          "description": "ES File Explorer هو مدير ملفات شامل. يدعم إدارة التطبيقات، نقل الملفات عبر FTP، التخزين السحابي، ومدير المهام.",
+          "shortDesc": "مدير ملفات شامل مع تخزين سحابي",
+          "features": [
+            "إدارة الملفات والمجلدات",
+            "نقل الملفات عبر WiFi",
+            "ربط التخزين السحابي",
+            "مدير التطبيقات والمهام",
+            "تنظيف النظام"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "30 MB مساحة فارغة",
+            "اتصال إنترنت للتخزين السحابي"
+          ],
+          "screenshots": [
+            "images/apps/esfile-1.jpg",
+            "images/apps/esfile-2.jpg",
+            "images/apps/esfile-3.jpg"
+          ],
+          "changelog": [
+            "تحسين أداء التصفح",
+            "إصلاحات أخطاء FTP",
+            "تحديث دعم التخزين السحابي"
+          ],
+          "image": "images/apps/esfile.jpg"
+        },
+        {
+          "id": "termux",
+          "name": "Termux",
+          "developer": "Fredrik Fornwall",
+          "version": "0.118",
+          "size": "15 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.termux?version=latest",
+          "rating": 4.8,
+          "downloads": "10M+",
+          "ageRating": "3+",
+          "description": "Termux يوفر محاكي طرفية Linux كامل على Android. يشمل حزمة APT لتحميل آلاف الحزم مثل Python، Node.js، Git.",
+          "shortDesc": "محاكي Linux طرفية مع آلاف الحزم",
+          "features": [
+            "محاكي Linux طرفية كامل",
+            "حزمة APT لتحميل البرامج",
+            "دعم SSH والخوادم",
+            "تطوير البرمجيات",
+            "لغات برمجة متعددة"
+          ],
+          "requirements": [
+            "Android 7.0 أو أعلى",
+            "20 MB مساحة فارغة",
+            "ذاكرة RAM 2 GB موصى بها"
+          ],
+          "screenshots": [
+            "images/apps/termux-1.jpg",
+            "images/apps/termux-2.jpg",
+            "images/apps/termux-3.jpg"
+          ],
+          "changelog": [
+            "تحديث المكتبات الأساسية",
+            "تحسين دعم Android 14",
+            "إصلاحات أمان"
+          ],
+          "image": "images/apps/termux.jpg"
+        }
+      ]
+    },
+    {
+      "id": "browsers",
+      "title": "المتصفحات",
+      "apps": [
+        {
+          "id": "kiwi",
+          "name": "Kiwi Browser",
+          "developer": "Geometry OU",
+          "version": "124.0",
+          "size": "85 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.kiwibrowser.browser?version=latest",
+          "rating": 4.5,
+          "downloads": "10M+",
+          "ageRating": "3+",
+          "description": "Kiwi Browser هو متصفح Chromium سريع يدعم إضافات Chrome على Android. يتضمن مانع إعلانات مدمج، وضع الظلام، وترجمة الصفحات.",
+          "shortDesc": "متصفح Chromium مع دعم إضافات Chrome",
+          "features": [
+            "دعم إضافات Chrome",
+            "مانع إعلانات مدمج",
+            "وضع الظلام المطلق",
+            "ترجمة الصفحات",
+            "تجربة سطح مكتب"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "100 MB مساحة فارغة",
+            "ذاكرة RAM 2 GB"
+          ],
+          "screenshots": [
+            "images/apps/kiwi-1.jpg",
+            "images/apps/kiwi-2.jpg",
+            "images/apps/kiwi-3.jpg"
+          ],
+          "changelog": [
+            "تحديث Chromium 124",
+            "تحسين دعم الإضافات",
+            "إصلاحات أمان"
+          ],
+          "image": "images/apps/kiwi.jpg"
+        },
+        {
+          "id": "brave",
+          "name": "Brave Browser",
+          "developer": "Brave Software",
+          "version": "1.65.122",
+          "size": "95 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.brave.browser?version=latest",
+          "rating": 4.6,
+          "downloads": "100M+",
+          "ageRating": "3+",
+          "description": "Brave Browser هو متصفح سريع وآمن يحجب الإعلانات والمتتبعات افتراضياً. يكافئك برموز BAT على مشاهدة الإعلانات الاختيارية.",
+          "shortDesc": "متصفح آمن يحجب الإعلانات ويكافئك",
+          "features": [
+            "حجب الإعلانات والتتبع",
+            "تصفح أسرع 3x",
+            "مكافآت BAT",
+            "توربو VPN",
+            "محفظة العملات المشفرة"
+          ],
+          "requirements": [
+            "Android 7.0 أو أعلى",
+            "100 MB مساحة فارغة",
+            "ذاكرة RAM 2 GB"
+          ],
+          "screenshots": [
+            "images/apps/brave-1.jpg",
+            "images/apps/brave-2.jpg",
+            "images/apps/brave-3.jpg"
+          ],
+          "changelog": [
+            "تحديث Chromium",
+            "تحسين Brave Rewards",
+            "إصلاحات أمان"
+          ],
+          "image": "images/apps/brave.jpg"
+        },
+        {
+          "id": "via",
+          "name": "Via Browser",
+          "developer": "Tu Yafeng",
+          "version": "5.4.1",
+          "size": "2 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/mark.via.gp?version=latest",
+          "rating": 4.7,
+          "downloads": "50M+",
+          "ageRating": "3+",
+          "description": "Via Browser هو أخف متصفح Android بحجم 2MB فقط. سريع، قابل للتخصيص بالكامل، ويدعم السكريبتات ومانع الإعلانات.",
+          "shortDesc": "أخف متصفح Android بحجم 2MB",
+          "features": [
+            "حجم 2MB فقط",
+            "تخصيص كامل بالCSS",
+            "مانع إعلانات مدمج",
+            "دعم السكريبتات",
+            "وضع القراءة الليلية"
+          ],
+          "requirements": [
+            "Android 4.0 أو أعلى",
+            "5 MB مساحة فارغة",
+            "يعمل على الأجهزة الضعيفة"
+          ],
+          "screenshots": [
+            "images/apps/via-1.jpg",
+            "images/apps/via-2.jpg",
+            "images/apps/via-3.jpg"
+          ],
+          "changelog": [
+            "تحسين استهلاك الذاكرة",
+            "إضافة ميزات تخصيص",
+            "إصلاحات الأداء"
+          ],
+          "image": "images/apps/via.jpg"
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "title": "التواصل المعدّل",
+      "apps": [
+        {
+          "id": "telegram",
+          "name": "Telegram",
+          "developer": "Telegram FZ-LLC",
+          "version": "10.14.0",
+          "size": "65 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/org.telegram.messenger?version=latest",
+          "rating": 4.5,
+          "downloads": "1B+",
+          "ageRating": "12+",
+          "description": "Telegram هو أسرع تطبيق مراسلة مع مزامنة across devices، تشفير سري، ملفات غير محدودة، ومكالمات صوت/فيديو مجانية.",
+          "shortDesc": "أسرع تطبيق مراسلة آمنة",
+          "features": [
+            "مراسلة مشفرة",
+            "ملفات حتى 2GB",
+            "قنوات ومجموعات لانهائية",
+            "مكالمات صوت وفيديو",
+            "بوتات وتطبيقات مصغرة"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "70 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/telegram-1.jpg",
+            "images/apps/telegram-2.jpg",
+            "images/apps/telegram-3.jpg"
+          ],
+          "changelog": [
+            "ميزة القصص الجديدة",
+            "تحسين المكالمات الجماعية",
+            "تحديثات الأمان"
+          ],
+          "image": "images/apps/telegram.jpg"
+        },
+        {
+          "id": "whatsapp-plus",
+          "name": "WhatsApp Plus",
+          "developer": "AlexMods",
+          "version": "24.00",
+          "size": "58 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.whatsapp?version=latest",
+          "rating": 4.3,
+          "downloads": "100M+",
+          "ageRating": "12+",
+          "description": "WhatsApp Plus هو نسخة معدلة من واتساب مع ميزات إضافية: سمات مخصصة، خصوصية محسّنة، وتحكم كامل في الإعدادات.",
+          "shortDesc": "واتساب معدل مع سمات وخصوصية محسّنة",
+          "features": [
+            "آلاف السمات المجانية",
+            "إخفاء حالة الظهور",
+            "تحميل الحالات مباشرة",
+            "خطوط مخصصة",
+            "إرسال ملفات أكبر"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "60 MB مساحة فارغة",
+            "رقم هاتف نشط"
+          ],
+          "screenshots": [
+            "images/apps/whatsapp-plus-1.jpg",
+            "images/apps/whatsapp-plus-2.jpg",
+            "images/apps/whatsapp-plus-3.jpg"
+          ],
+          "changelog": [
+            "تحديث قاعدة واتساب",
+            "إضافة سمات جديدة",
+            "إصلاحات خصوصية"
+          ],
+          "image": "images/apps/whatsapp-plus.jpg"
+        }
+      ]
+    }
+  ]
+}
