@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="أفضل التطبيقات والأدوات لنظام أندرويد - VPN، متصفحات، أدوات نظام">
+  <meta name="description" content="تفاصيل التطبيق - معلومات شاملة والتقييمات والتنزيل">
   <meta name="theme-color" content="#0078d7">
-  <title>التطبيقات والأدوات | GetAli V2.5</title>
+  <title id="pageTitle">تفاصيل التطبيق | GetAli V2.5</title>
 
   <!-- Preconnect -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,10 +13,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
   <!-- Styles -->
-  <link rel="stylesheet" href="css/style.css">
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="20250507_232838.png">
+  <link rel="stylesheet" href="/css/style-pro.css">
+    <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="/images/hero-games.png">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
@@ -53,7 +52,7 @@
         </a>
 
         <div class="search-bar">
-          <input type="search" id="searchInput" placeholder="البحث في التطبيقات..." aria-label="البحث في التطبيقات" autocomplete="off">
+          <input type="search" id="searchInput" placeholder="البحث في التطبيقات والألعاب..." aria-label="البحث" autocomplete="off">
           <span class="search-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
               <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
@@ -63,7 +62,7 @@
 
         <div class="nav-menu">
           <a href="index.html" class="nav-link" id="navGames">الألعاب</a>
-          <a href="apps.html" class="nav-link active" id="navApps">التطبيقات</a>
+          <a href="apps.html" class="nav-link" id="navApps">التطبيقات</a>
 
           <button class="btn-icon" id="downloadToggle" aria-label="التنزيلات">
             <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -76,47 +75,27 @@
     </div>
   </header>
 
-  <!-- Hero Section -->
-  <section class="hero hero-apps" aria-label="مقدمة">
-    <div class="container">
-      <div class="hero-content">
-        <div class="hero-text">
-          <span class="hero-tag">
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-            أدوات احترافية
-          </span>
-          <h1 class="hero-title">أفضل التطبيقات لنظام أندرويد</h1>
-          <p class="hero-desc">
-            اكتشف مجموعة مختارة من أفضل التطبيقات والأدوات لنظام Android.
-            من VPN ومتصفحات إلى أدوات النظام ومديرات الملفات — كلها متاحة للتنزيل المباشر.
-          </p>
-          <a href="#store" class="btn btn-primary">
-            استكشف التطبيقات
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="6 9 12 15 18 9"/></svg>
-          </a>
-        </div>
-        <div class="hero-visual">
-          <img src="images/apps/hero-apps.png" alt="تطبيقات Android" class="hero-img"
-               onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22200%22 height=%22200%22%3E%3Crect fill=%22%234facfe%22 width=%22200%22 height=%22200%22 rx=%2220%22/%3E%3Ctext x=%2250%25%22 y=%2250%25%22 dominant-baseline=%22middle%22 text-anchor=%22middle%22 font-family=%22Arial%22 font-size=%2280%22 fill=%22white%22%3EA%3C/text%3E%3C/svg%3E'">
-        </div>
+  <!-- Detail Content -->
+  <main class="main-content container detail-page" id="detailContainer" role="main">
+    <!-- Loading State -->
+    <div class="detail-loading" id="detailLoading">
+      <div class="skeleton" style="height:300px;border-radius:16px;margin-bottom:24px"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:24px">
+        <div class="skeleton" style="height:120px;border-radius:12px"></div>
+        <div class="skeleton" style="height:120px;border-radius:12px"></div>
       </div>
+      <div class="skeleton" style="height:200px;border-radius:12px"></div>
     </div>
-  </section>
 
-  <!-- Main Content -->
-  <main class="main-content container" id="store" role="main">
-    <div id="sectionsContainer">
-      <!-- Loading skeletons -->
-      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:20px;margin-top:40px">
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-        <div class="skeleton" style="height:220px;border-radius:12px"></div>
-      </div>
+    <!-- Content rendered by JS -->
+    <div id="detailContent" style="display:none"></div>
+
+    <!-- Error State -->
+    <div class="detail-error" id="detailError" style="display:none">
+      <div style="font-size:64px;margin-bottom:16px">🔍</div>
+      <h2>التطبيق غير موجود</h2>
+      <p>لم نتمكن من العثور على التطبيق المطلوب. قد يكون الرابط غير صحيح.</p>
+      <a href="index.html" class="btn btn-primary" style="margin-top:24px">العودة للرئيسية</a>
     </div>
   </main>
 
@@ -143,10 +122,10 @@
         <div class="footer-col">
           <h4>تابعنا</h4>
           <ul class="social-links">
-            <li><a href="#"><i class="fab fa-facebook-f"></i> فيسبوك</a></li>
-            <li><a href="#"><i class="fab fa-instagram"></i> انستقرام</a></li>
-            <li><a href="#"><i class="fab fa-x-twitter"></i> إكس (تويتر)</a></li>
-            <li><a href="#"><i class="fab fa-github"></i> قيت هوب</a></li>
+            <li><a href="https://www.facebook.com/share/1DoWRyb1Ch/"><i class="fab fa-facebook-f"></i> فيسبوك</a></li>
+            <li><a href="https://www.instagram.com/alimol_hbh?igsh=djZjcTBuY3JoOGF0"><i class="fab fa-instagram"></i> انستقرام</a></li>
+            <li><a href="https://x.com/Aliopiilz3131A"><i class="fab fa-x"></i> إكس (تويتر)</a></li>
+            <li><a href="https://github.com/alimol31"><i class="fab fa-github"></i> قيت هوب</a></li>
           </ul>
         </div>
       </div>
@@ -158,6 +137,6 @@
 
   <!-- Scripts -->
   <script src="js/download-manager.js"></script>
-  <script src="js/apps.js"></script>
+  <script src="js/detail.js"></script>
 </body>
 </html>
