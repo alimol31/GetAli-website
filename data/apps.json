@@ -1,0 +1,185 @@
+{
+  "categories": [
+    {
+      "id": "vpn-security",
+      "title": "VPN و الأمان",
+      "apps": [
+        {
+          "id": "1.1.1.1",
+          "name": "1.1.1.1 + WARP",
+          "developer": "Cloudflare",
+          "version": "6.35",
+          "size": "24 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.cloudflare.onedotonedotonedotone?version=latest",
+          "rating": 4.7,
+          "downloads": "100M+",
+          "ageRating": "3+",
+          "description": "تطبيق 1.1.1.1 من Cloudflare يوفر لك اتصالاً آمناً وسريعاً عبر WARP. يحمي خصوصيتك ويحجب الإعلانات ويحسن سرعة الإنترنت.",
+          "shortDesc": "VPN مجاني وسريع لحماية خصوصيتك",
+          "features": [
+            "اتصال VPN مجاني وسريع",
+            "حماية من البرامج الضارة",
+            "تسريع تصفح الإنترنت",
+            "حجب الإعلانات والتتبع",
+            "تشفير كامل لبياناتك"
+          ],
+          "requirements": [
+            "Android 5.0 أو أعلى",
+            "20 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/1111-1.jpg",
+            "images/apps/1111-2.jpg",
+            "images/apps/1111-3.jpg", 
+            "images/apps/1111-4.jpg"
+          ],
+          "changelog": [
+            "تحسين أداء WARP",
+            "إصلاحات أخطاء الاتصال",
+            "واجهة مستخدم محسّنة"
+          ],
+          "image": "images/apps/1111.jpg"
+        }
+      ]
+    },
+    {
+      "id": "downloaders",
+      "title": "التنزيل والتحميل",
+      "apps": [
+        
+        {
+          "id": "snaptube",
+          "name": "SnapTube",
+          "developer": "SnapTube",
+          "version": "7.28",
+          "size": "22 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.snaptube.premium?version=latest",
+          "rating": 4.3,
+          "downloads": "100M+",
+          "ageRating": "12+",
+          "description": "SnapTube يسمح لك بتنزيل الفيديوهات والموسيقى من YouTube، Facebook، Instagram، ومواقع أخرى. يدعم جودة 4K وتحويل إلى MP3.",
+          "shortDesc": "تنزيل الفيديوهات من YouTube ومواقع التواصل",
+          "features": [
+            "تنزيل من YouTube و50+ موقع",
+            "جودة 4K و1080p",
+            "تحويل الفيديو إلى MP3",
+            "تنزيل قائمة التشغيل كاملة",
+            "مدير تنزيلات متقدم"
+          ],
+          "requirements": [
+            "Android 4.1 أو أعلى",
+            "25 MB مساحة فارغة",
+            "اتصال إنترنت نشط"
+          ],
+          "screenshots": [
+            "images/apps/snaptube-1.jpg",
+            "images/apps/snaptube-2.jpg",
+            "images/apps/snaptube-3.jpg"
+          ],
+          "changelog": [
+            "دعم مواقع جديدة",
+            "تحسين تحويل MP3",
+            "واجهة مستخدم محدّثة"
+          ],
+          "image": "images/apps/snaptube.jpg"
+        }
+      
+      ]
+    }, 
+  {
+      "id": "media",
+      "title": "الميديا والمشغلات",
+      "apps": [
+        {
+          "id": "vlc",
+          "name": "VLC for Android",
+          "developer": "VideoLAN",
+          "version": "3.5.4",
+          "size": "45 MB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/org.videolan.vlc?version=latest",
+          "rating": 4.6,
+          "downloads": "100M+",
+          "ageRating": "3+",
+          "description": "VLC هو أفضل مشغل وسائط مفتوح المصدر. يدعم جميع صيغ الفيديو والصوت، الترجمة، البث الشبكي، وتحويل الصيغ.",
+          "shortDesc": "مشغل وسائط يدعم جميع الصيغ",
+          "features": [
+            "يدعم جميع صيغ الفيديو والصوت",
+            "تشغيل الترجمة والتيرنت",
+            "تحكم في السرعة والصوت",
+            "تحويل بين الصيغ",
+            "تشغيل البث الشبكي"
+          ],
+          "requirements": [
+            "Android 4.2 أو أعلى",
+            "50 MB مساحة فارغة",
+            "معالج ARMv7 أو أعلى"
+          ],
+          "screenshots": [
+            "images/apps/vlc-1.jpg",
+            "images/apps/vlc-2.jpg",
+            "images/apps/vlc-3.jpg"
+          ],
+          "changelog": [
+            "تحسين دعم HDR",
+            "إصلاحات أخطاء التشغيل",
+            "تحديث الترجمة التلقائية"
+          ],
+          "image": "images/apps/vlc.jpg"
+        }
+        
+        
+      ]
+    },
+    
+    {
+      "id": "tools",
+      "title": "أدوات النظام",
+      "apps": [
+        {  "id": "zarchiver",
+  "name": "ZArchiver",
+  "developer": "Anton Shevtsov",
+  "version": "1.0.10",
+  "size": "10 ميجابايت",
+  "fileName": "zarchiver.apk",
+  "downloadUrl": "https://d.apkpure.com/b/APK/ru.zdevs.zarchiver?version=latest",
+  "rating": 4.6,
+  "downloads": "100M+",
+  "ageRating": "مناسب للجميع",
+  "description": "ZArchiver هو تطبيق قوي لإدارة الأرشيفات على أندرويد. يدعم إنشاء واستخراج وعرض العديد من صيغ الملفات المضغوطة مثل ZIP و RAR و 7z والمزيد. يتميز بواجهة سهلة الاستخدام وإمكانية التعامل مع الملفات المحمية بكلمة مرور.",
+  "shortDesc": "مدير أرشيفات متكامل بمميزات متقدمة",
+  "features": [
+    "إنشاء أرشيفات بصيغ: 7z، zip، tar، bzip2، gzip، xz",
+    "فك ضغط صيغ متعددة: rar، rar5، iso، arj، cab، lzh والمزيد",
+    "عرض محتويات الأرشيف دون فكه",
+    "دعم الملفات المحمية بكلمة مرور",
+    "إمكانية فتح ملفات متعددة الأجزاء (split archives)",
+    "متصفح ملفات مدمج"
+  ],
+  "requirements": [
+    "Android 4.2 أو أعلى",
+    "10 ميجابايت مساحة فارغة",
+    "معالج ARM أو x86"
+  ],
+  "screenshots": [
+    "images/apps/zarchiver-1.jpg",
+    "images/apps/zarchiver-2.jpg",
+    "images/apps/zarchiver-3.jpg"
+  ],
+  "changelog": [
+    "تحسين دعم Android 14",
+    "إصلاح مشكلة استخراج ملفات RAR المتعددة الأجزاء",
+    "تحسينات في الأداء والاستقرار"
+  ],
+  "image": "images/apps/zarchiver.jpg"
+          
+        }
+        
+      ]
+    }
+  
+  ]
+}

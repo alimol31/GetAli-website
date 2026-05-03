@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "id": "popular-mods",
+      "title": "التطبيقات والألعاب المعدّلة",
+      "mods": [
+        {
+          "id": "gta-sa-mod",
+          "name": "GTA: San Andreas - نسخة Ali",
+          "developer": "Rockstar Games",
+          "modBy": "Ali & فريق GetAli",
+          "version": "2.11.311",
+          "modVersion": "v1.0",
+          "size": "2.1 GB",
+          "fileName": null,
+          "downloadUrl": "https://d.apkpure.com/b/APK/com.rockstargames.gtasa?version=latest",
+          "modUrl": "https://example.com/mods/gta-sa-ali-v1.apk",
+          "modMenu":"https://www.mediafire.com/file/bqe3dcmq2j4nipv/New_Mod_menu_2022_by_ali.zip/file",
+          "rating": 4.9,
+          "downloads": "50K+",
+          "ageRating": "17+",
+          "description": "نسخة معدّلة من GTA: San Andreas بتحسينات في الأداء وإضافات مخصصة. تم تعديل الترجمة العربية بشكل كامل وإصلاح الأخطاء المعروفة. نسخة أصلية 100% — لا تحتوي على تهكير أو غش.",
+          "shortDesc": "نسخة معدّلة بترجمة عربية محسّنة وأداء محسّن",
+          "modInfo": [
+            "ترجمة عربية كاملة ومحسّنة",
+            "تحسين الأداء على الأجهزة الضعيفة",
+            "إصلاح أخطاء النصوص العربية",
+            "تقليل استهلاك الرام بنسبة 15%",
+            "واجهة مستخدم محسّنة للشاشات الصغيرة"
+          ],
+          "features": [
+            "عالم مفتوح ضخم بثلاث مدن",
+            "100+ مهمة رئيسية وفرعية",
+            "تخصيص الشخصية والسيارات",
+            "دعم لوحة الألعاب",
+            "رسومات HD محسّنة",
+            "حفظ التقدم السحابي"
+          ],
+          "requirements": [
+            "Android 7.0 أو أعلى",
+            "3 GB ذاكرة RAM على الأقل",
+            "2.5 GB مساحة فارغة",
+            "معالج Snapdragon 660 أو أعلى"
+          ],
+          "screenshots": [
+            "/images/screenshots/mod/20260501_045541.png"
+          ],
+          "changelog": [
+            "v1.0: إصدار أولي — ترجمة عربية كاملة",
+            "تحسين الأداء على الأجهزة الضعيفة",
+            "إصلاح مشاكل الخطوط العربية"
+          ],
+          "image": "images/games/gta-sa.jpg"
+        }
+        
+      ]
+    },
+    {
+      "id": "apps-mods",
+      "title": "تطبيقات معدّلة",
+      "mods": []
+    },
+    {
+      "id": "upcoming-mods",
+      "title": "قريباً — تعديلات قيد التطوير",
+      "mods": []
+    }
+  ]
+}
